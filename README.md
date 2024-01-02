@@ -1,42 +1,41 @@
-<h1 align="center">Hi 👋, This is Farman here!</h1>
-![I am GitHub Readme Generator's creator](https://media.licdn.com/dms/image/D5616AQGPmiCQjimK6g/profile-displaybackgroundimage-shrink_350_1400/0/1704217680044?e=1709769600&v=beta&t=zHE0XNJ95sxZs-1ZIWdTT7zVSinfJE6xsH6qdQHCBIk)
+### Hi there 👋, This is Farman here!
+#### Data Scientist / Data Analyst / AI Application / Engineer
+![Data Scientist / Data Analyst / AI Application / Engineer](https://media.licdn.com/dms/image/D5616AQGPmiCQjimK6g/profile-displaybackgroundimage-shrink_350_1400/0/1704217680044?e=1709769600&v=beta&t=zHE0XNJ95sxZs-1ZIWdTT7zVSinfJE6xsH6qdQHCBIk)
 
-<h3 align="center">Data Scientist / Data Analyst / AI Application</h3>
+Greetings! 
+ This is Farman Ali here, a dedicated and results-driven Data Scientist and Data Analyst with a 
+ passion for leveraging data to drive strategic decision-making and business growth. Proficient in 
+ statistical analysis, machine learning, and data visualization, I thrive on solving complex problems 
+ and extracting valuable insights from diverse datasets. 
+🔍 Data Scientist | Data Analyst | Problem Solver | Passionate about Turning Data into Actionable 
+ Insights 📊
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=farman24476&label=Profile%20views&color=0e75b6&style=flat" alt="farman24476" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farman24476" alt="farman24476" /></a> </p>
+Skills: Excel, PowerBi, Tableau & Looker,Java, SQL,Python & R & Maching Learning
 
-- 🔭 I’m currently working on **as a Junior Data Scientist**
+- 🔭 I’m currently working on as a Junior Data Scientist 
+- 🌱 I’m currently learning DBMS, Java, Python, R & Machine Learning 
+- 👯 I’m looking to collaborate on any Data Science Project/filed 
+- 🤔 I’m looking for help with Data Mart  
+- 💬 Ask me about  Excel, PowerBi, Tableau & Looker, SQL, Python, R, Machine Learning 
+- 📫 How to reach me: md.farmanali200346@gmail.com 
+- 😄 Pronouns: faa · muhn 
+- ⚡ Fun fact: Learn Data Science Smartly with Data Mart! 
 
-- 🌱 I’m currently learning **DBMS,JAVA & Machine Learning**
 
-- 👯 I’m looking to collaborate on **Data Science Project**
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Farman24476)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Md Farman Ali/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Data Mart)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://farman24476.github.io/developer-portfolio/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tableau.svg' alt='tableau' height='40'>](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2FTableauAPAC%2F&psig=AOvVaw1EHNArLLZHfL7McXlDfOX5&ust=1704306721162000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCJjvg7-rv4MDFQAAAAAdAAAAABAE)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/c.svg' alt='c' height='40'>](https://www.google.com/url?sa=i&url=https%3A%2F%2Fuxwing.com%2Fc-program-icon%2F&psig=AOvVaw1GR3jUIYupvRGsEZOwetPr&ust=1704306679054000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCPDv46Wrv4MDFQAAAAAdAAAAABAE)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/c.svg' alt='c' height='40'>](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-nwvsu&psig=AOvVaw2xolK88dP9vygIoTDgbPUB&ust=1704306762774000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCJj5o8-rv4MDFQAAAAAdAAAAABAE)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg' alt='python' height='40'>](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.python.org%2Fcommunity%2Flogos%2F&psig=AOvVaw0T_QsEt8SPEmYr5QTTqprC&ust=1704306796834000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCNDlsd2rv4MDFQAAAAAdAAAAABAE)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/r.svg' alt='r' height='40'>](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3AR_logo.svg&psig=AOvVaw21GR7uM0JtLz1QcYUB6WsU&ust=1704306820389000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCPC-1Oerv4MDFQAAAAAdAAAAABAE)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/xmpp.svg' alt='xmpp' height='40'>](https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonarchive.com%2Fshow%2Fpapirus-apps-icons-by-papirus-team%2Fxampp-icon.html&psig=AOvVaw34CTbp9vlC6uT4Le_2Rmrc&ust=1704306850852000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCMjSjPWrv4MDFQAAAAAdAAAAABAE)  
 
-- 🤝 I’m looking for help with [Data Mart](https://www.facebook.com/studymalaysiawithfarman/about)
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/md-farman-ali-aa241123b/](https://www.linkedin.com/in/md-farman-ali-aa241123b/)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Farman24476)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 💬 Ask me about **Language & Tools: Excel, PowerBi, Tableau & Looker,SQL,Python & R**
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Farman24476)](https://github.com/anuraghazra/github-readme-stats)
 
-- 📫 How to reach me **md.farmanali200346@gmail.com**
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Farman24476&show_icons=true&count_private=true)  
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1LH-qO7Bu8G0zmyp09ulVV0miY9KBnkPH/view?usp=sharing](https://drive.google.com/file/d/1LH-qO7Bu8G0zmyp09ulVV0miY9KBnkPH/view?usp=sharing)
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Farman24476/contributions?format=svg&private=true)  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/md farman ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md farman ali" height="30" width="40" /></a>
-<a href="https://fb.com/data mart" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="data mart" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@md_farmanali2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@md_farmanali2001" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/md_farman_ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="md_farman_ali" height="30" width="40" /></a>
-</p>
+![GitHub metrics](https://metrics.lecoq.io/Farman24476)  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farman24476&show_icons=true&locale=en&layout=compact" alt="farman24476" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farman24476&show_icons=true&locale=en" alt="farman24476" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farman24476&" alt="farman24476" /></p>
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Farman24476)  
 
