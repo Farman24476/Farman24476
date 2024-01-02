@@ -1,18 +1,18 @@
 ![Data Scientist / Data Analyst / AI Application / Engineer](https://media.licdn.com/dms/image/D5616AQGPmiCQjimK6g/profile-displaybackgroundimage-shrink_350_1400/0/1704217680044?e=1709769600&v=beta&t=zHE0XNJ95sxZs-1ZIWdTT7zVSinfJE6xsH6qdQHCBIk)
 ### Hi there 👋, This is Farman here!
 #### Data Scientist / Data Analyst / AI Application / Engineer
-######Objective!
+###### Objective!
 
  This is Farman Ali here, a dedicated and results-driven Data Scientist and Data Analyst with a 
  passion for leveraging data to drive strategic decision-making and business growth. Proficient in 
  statistical analysis, machine learning, and data visualization, I thrive on solving complex problems 
  and extracting valuable insights from diverse datasets.
  
-######🔍 Data Scientist | Data Analyst | Problem Solver | Passionate about Turning Data into Actionable 
+###### 🔍 Data Scientist | Data Analyst | Problem Solver | Passionate about Turning Data into Actionable 
  Insights 📊
 
 
-#####Skills: Excel, PowerBi, Tableau & Looker,Java, SQL,Python & R & Maching Learning
+##### Skills: Excel, PowerBi, Tableau & Looker,Java, SQL,Python & R & Maching Learning
 
 - 🔭 I’m currently working on as a Junior Data Scientist 
 - 🌱 I’m currently also learning DBMS, Java, Python, R & Machine Learning 
