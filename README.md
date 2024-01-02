@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Farman here!</h1>
-<h3 align="center">A passionate Data Scientist / Data Analysis / AI Applications</h3>
+<h1 align="center">Hi 👋, This is Farman here!</h1>
+<h3 align="center">Data Scientist / Data Analyst / AI Application</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farman24476&label=Profile%20views&color=0e75b6&style=flat" alt="farman24476" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farman24476" alt="farman24476" /></a> </p>
 
-- 🔭 I’m currently working on **Data Scientist**
+- 🔭 I’m currently working on **as a Junior Data Scientist**
 
 - 🌱 I’m currently learning **DBMS,JAVA & Machine Learning**
 
-- 👯 I’m looking to collaborate on **Data Science**
+- 👯 I’m looking to collaborate on **Data Science Project**
 
 - 🤝 I’m looking for help with [Data Mart](https://www.facebook.com/studymalaysiawithfarman/about)
 
