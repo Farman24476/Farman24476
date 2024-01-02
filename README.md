@@ -15,7 +15,7 @@ Greetings!
 Skills: Excel, PowerBi, Tableau & Looker,Java, SQL,Python & R & Maching Learning
 
 - 🔭 I’m currently working on as a Junior Data Scientist 
-- 🌱 I’m currently learning DBMS, Java, Python, R & Machine Learning 
+- 🌱 I’m currently also learning DBMS, Java, Python, R & Machine Learning 
 - 👯 I’m looking to collaborate on any Data Science Project/filed 
 - 🤔 I’m looking for help with Data Mart  
 - 💬 Ask me about  Excel, PowerBi, Tableau & Looker, SQL, Python, R, Machine Learning 
