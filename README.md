@@ -8,8 +8,7 @@
  statistical analysis, machine learning, and data visualization, I thrive on solving complex problems 
  and extracting valuable insights from diverse datasets.
  
-###### 🔍 Data Scientist | Data Analyst | Problem Solver | Passionate about Turning Data into Actionable 
- Insights 📊
+###### 🔍 Data Scientist | Data Analyst | Problem Solver | Passionate about Turning Data into Actionable Insights 📊
 
 
 ##### Skills: Excel, PowerBi, Tableau & Looker,Java, SQL,Python & R & Maching Learning
