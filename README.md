@@ -18,7 +18,6 @@
 - 🤔 I’m looking for help with Data Mart  
 - 💬 Ask me about  Excel, PowerBi, Tableau & Looker, SQL, Python, R, Machine Learning 
 - 📫 How to reach me: md.farmanali200346@gmail.com 
-- 😄 Pronouns: faa · muhn 
 - ⚡ Fun fact: Learn Data Science Smartly with Data Mart! 
 
 
